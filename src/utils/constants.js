@@ -1,0 +1,1 @@
+export const APP_BASE_API = 'https://dummyjson.com';
